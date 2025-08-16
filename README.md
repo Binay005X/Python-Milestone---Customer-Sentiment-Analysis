@@ -85,6 +85,12 @@ Performed exploratory analysis to derive meaningful insights:
 
 (Add screenshots of your plots here for better visualization in the README)
 
+<img width="567" height="400" alt="Screenshot 2025-08-16 233255" src="https://github.com/user-attachments/assets/04f9f2d9-9d12-41fd-a44f-c7e6764746d2" />
+<img width="597" height="447" alt="Screenshot 2025-08-16 232834" src="https://github.com/user-attachments/assets/256f5108-fb99-4303-8f48-c7ee2f4d9b53" />
+<img width="610" height="454" alt="Screenshot 2025-08-16 233017" src="https://github.com/user-attachments/assets/3b2575bd-ebbb-4a8c-87f8-b47929c69afc" />
+<img width="1101" height="297" alt="Screenshot 2025-08-16 233112" src="https://github.com/user-attachments/assets/62770f6a-a6ee-4436-ae27-2083b627d2d0" />
+<img width="613" height="465" alt="Screenshot 2025-08-16 233336" src="https://github.com/user-attachments/assets/95f002ac-62bd-4c05-874e-d6969f57a096" />
+
 # ✅ Conclusion
 
 - Customers have a generally positive perception of the product.
