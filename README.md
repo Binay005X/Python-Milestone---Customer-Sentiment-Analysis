@@ -15,7 +15,7 @@ This project focuses on analyzing customer reviews using TextBlob for sentiment 
 
 # 🚀 Project Workflow
 
-## 1. Sentiment Analysis
+1. Sentiment Analysis
 
 - Applied TextBlob on review text to generate:
 
@@ -35,7 +35,7 @@ This project focuses on analyzing customer reviews using TextBlob for sentiment 
 
 ## 2. Data Analysis & Insights
 
-### Performed exploratory analysis to derive meaningful insights:
+Performed exploratory analysis to derive meaningful insights:
 
 - Sentiment Distribution
 
@@ -47,19 +47,19 @@ This project focuses on analyzing customer reviews using TextBlob for sentiment 
 
 # 📈 Key Insights
 
-## 1. Sentiment Distribution
+1. Sentiment Distribution
 
 - The average polarity is ~0.52, suggesting an overall positive sentiment.
 
 - Majority of reviews fall under the positive category, as visualized in the sentiment bar chart.
 
-## 2. Ratings vs Sentiment
+2. Ratings vs Sentiment
 
 - Reviews with higher ratings (4-5 stars) show higher polarity scores.
 
 - Confirms that positive sentiment strongly aligns with high ratings.
 
-## 3. Review Length vs Sentiment
+3. Review Length vs Sentiment
 
 - Correlation between review length and polarity is -0.35.
 
@@ -67,7 +67,7 @@ This project focuses on analyzing customer reviews using TextBlob for sentiment 
 
 - Graphical analysis shows polarity remains consistent regardless of review length.
 
-## 4. Word Cloud Analysis
+4. Word Cloud Analysis
 
 - Positive reviews frequently mention words such as quality, product, value, love.
 
