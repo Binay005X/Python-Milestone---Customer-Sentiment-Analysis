@@ -15,7 +15,7 @@ This project focuses on analyzing customer reviews using TextBlob for sentiment 
 
 # 🚀 Project Workflow
 
-1. Sentiment Analysis
+** 1. Sentiment Analysis **
 
 - Applied TextBlob on review text to generate:
 
