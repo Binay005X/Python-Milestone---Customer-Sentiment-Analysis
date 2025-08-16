@@ -53,11 +53,16 @@ Performed exploratory analysis to derive meaningful insights:
 
 - Majority of reviews fall under the positive category, as visualized in the sentiment bar chart.
 
+<img width="597" height="447" alt="Screenshot 2025-08-16 232834" src="https://github.com/user-attachments/assets/01da94d7-c3f0-43fc-98d0-62eaacaf8b06" />
+
 2. Ratings vs Sentiment
 
 - Reviews with higher ratings (4-5 stars) show higher polarity scores.
 
 - Confirms that positive sentiment strongly aligns with high ratings.
+
+<img width="610" height="454" alt="Screenshot 2025-08-16 233017" src="https://github.com/user-attachments/assets/c687b805-2d3a-444a-a2fe-ad83b166d1a1" />
+
 
 3. Review Length vs Sentiment
 
@@ -67,11 +72,17 @@ Performed exploratory analysis to derive meaningful insights:
 
 - Graphical analysis shows polarity remains consistent regardless of review length.
 
+<img width="613" height="465" alt="Screenshot 2025-08-16 233336" src="https://github.com/user-attachments/assets/a3e909aa-5a72-48c3-9a62-d111a7e7fbe6" />
+
+
 4. Word Cloud Analysis
 
 - Positive reviews frequently mention words such as quality, product, value, love.
 
 - Neutral/Mixed reviews often include words related to delivery, size, issue, suggesting areas of improvement.
+
+<img width="1101" height="297" alt="Screenshot 2025-08-16 233112" src="https://github.com/user-attachments/assets/9d5dc947-251f-4dbc-8360-02bc05a9571d" />
+
 
 # 📊 Visualizations
 
@@ -82,14 +93,7 @@ Performed exploratory analysis to derive meaningful insights:
 - Review Length vs Sentiment Graph
 
 - Word Clouds for Positive & Neutral/Mixed Reviews
-
-(Add screenshots of your plots here for better visualization in the README)
-
-<img width="567" height="400" alt="Screenshot 2025-08-16 233255" src="https://github.com/user-attachments/assets/04f9f2d9-9d12-41fd-a44f-c7e6764746d2" />
-<img width="597" height="447" alt="Screenshot 2025-08-16 232834" src="https://github.com/user-attachments/assets/256f5108-fb99-4303-8f48-c7ee2f4d9b53" />
-<img width="610" height="454" alt="Screenshot 2025-08-16 233017" src="https://github.com/user-attachments/assets/3b2575bd-ebbb-4a8c-87f8-b47929c69afc" />
-<img width="1101" height="297" alt="Screenshot 2025-08-16 233112" src="https://github.com/user-attachments/assets/62770f6a-a6ee-4436-ae27-2083b627d2d0" />
-<img width="613" height="465" alt="Screenshot 2025-08-16 233336" src="https://github.com/user-attachments/assets/95f002ac-62bd-4c05-874e-d6969f57a096" />
+  
 
 # ✅ Conclusion
 
